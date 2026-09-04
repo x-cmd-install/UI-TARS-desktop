@@ -7,13 +7,13 @@ about:
   head: c2ad42e
   archived: false
   latestVersion: v0.3.0
-  collectedAt: 2026-09-04T19:27:58Z
+  collectedAt: 2026-09-04T21:04:11Z
 timeline:
   created: 2025-01-19
   lastCommit: 2026-07-01
   lastRelease: 2025-11-04
 popularity:
-  star: 38843
+  star: 38844
   watcher: 282
   fork: 3930
   release: 38
@@ -87,6 +87,84 @@ total:
   openIssue: 327
   commit: 1110
 ---
+path: /home/runner/.x-repo/github.com/bytedance/UI-TARS-desktop
+collectedAt: 2026-09-04T21:04:17Z
+loc:
+  TypeScript:
+    code: 110566
+    comments: 22180
+    blanks: 17381
+    files: 1158
+  Yaml:
+    code: 69433
+    comments: 18
+    blanks: 10535
+    files: 17
+  Tsx:
+    code: 34220
+    comments: 1720
+    blanks: 3620
+    files: 282
+  Json:
+    code: 17798
+    comments: 0
+    blanks: 1
+    files: 231
+  Css:
+    code: 2853
+    comments: 128
+    blanks: 477
+    files: 28
+  JavaScript:
+    code: 1116
+    comments: 227
+    blanks: 163
+    files: 24
+  Less:
+    code: 597
+    comments: 49
+    blanks: 116
+    files: 10
+  Html:
+    code: 217
+    comments: 12
+    blanks: 15
+    files: 8
+  Sh:
+    code: 102
+    comments: 8
+    blanks: 24
+    files: 8
+  Dockerfile:
+    code: 39
+    comments: 12
+    blanks: 25
+    files: 2
+  Svg:
+    code: 33
+    comments: 0
+    blanks: 1
+    files: 10
+  Toml:
+    code: 29
+    comments: 0
+    blanks: 9
+    files: 1
+  Markdown:
+    code: 0
+    comments: 41887
+    blanks: 12458
+    files: 200
+  Text:
+    code: 0
+    comments: 1
+    blanks: 0
+    files: 1
+total:
+  code: 240314
+  comments: 66693
+  blanks: 45224
+  files: 1980
 ---
 date: "2026-02-24T02:46:43Z"
 repo:
