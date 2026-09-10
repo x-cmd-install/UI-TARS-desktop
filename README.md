@@ -12,35 +12,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 x install UI-TARS-desktop
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/bytedance/UI-TARS-desktop>
-- **Homepage**: <https://agent-tars.com>
-- **License**: Apache-2.0
-
-## Release
-
-- **Latest**: `v0.3.0` (2025-11-04)
-- **Last commit**: 2026-07-01
-- **Published**: 2025-11-04T16:10:39Z
-
-## Popularity
-
-- **Stars**: 38,917 · **Forks**: 3,935 · **Open issues**: 546 · **Contributors**: 52
-
-## Totals (cumulative)
-
-- **Releases**: 38 · **Merged PRs**: 1074 · **Open PRs**: 115 · **Closed issues**: 218 · **Open issues**: 328 · **Commits**: 1110
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 20 | 0 | 9 | 0 |
-| 90d | 2026-06-12 | 0 | 1 | 33 | 0 | 12 | 1 |
-| 360d | 2025-09-15 | 2 | 183 | 91 | 10 | 81 | 144 |
-
-## Code size
+## Code insight
 
 Total: **237,003** lines of code across **1716** files in the top 5 languages.
 
@@ -62,13 +34,43 @@ Lowest-scoring checks:
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
+## Source
+
+- **Upstream**: <https://github.com/bytedance/UI-TARS-desktop>
+- **Homepage**: <https://agent-tars.com>
+- **License**: Apache-2.0
+
+## Release
+
+- **Latest**: `v0.3.0` (2025-11-04)
+- **Last commit**: 2026-07-01
+
+## Popularity
+
+- **Stars**: 38,925 · **Forks**: 3,936 · **Open issues**: 546 · **Contributors**: 52
+
+## Totals (cumulative)
+
+- **Releases**: 38 · **Merged PRs**: 1074 · **Open PRs**: 115 · **Closed issues**: 218 · **Open issues**: 328 · **Commits**: 1110
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 20 | 0 | 9 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 28 | 0 | 11 | 0 |
+| 90d | 2026-06-12 | 0 | 1 | 33 | 0 | 12 | 1 |
+| last180d | 2026-03-14 | 0 | 3 | 63 | 2 | 21 | 3 |
+| 360d | 2025-09-15 | 2 | 183 | 91 | 10 | 81 | 144 |
+| last720d | 2024-09-20 | 38 | 1074 | 115 | 218 | 328 | 1110 |
+
 ## Improve this data
 
 Install metadata for UI-TARS-desktop lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `UI-TARS-desktop` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/UI-TARS-desktop.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/UI-TARS-desktop.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:21:05Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:57:27Z._

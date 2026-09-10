@@ -4,7 +4,7 @@
 
 The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 
-![UI-TARS-desktop](https://repo.x-cmd.io/UI-TARS-desktop.svg)
+![UI-TARS-desktop](https://repo.x-cmd.io/UI-TARS-desktop.svg?lang=zh)
 
 ## 安装
 
@@ -12,35 +12,7 @@ The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and
 x install UI-TARS-desktop
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/bytedance/UI-TARS-desktop>
-- **官网**: <https://agent-tars.com>
-- **许可证**: Apache-2.0
-
-## 发布
-
-- **最新版本**: `v0.3.0` (2025-11-04)
-- **最近提交**: 2026-07-01
-- **发布时间**: 2025-11-04T16:10:39Z
-
-## 流行度
-
-- **Star**: 38,917 · **Fork**: 3,935 · **开放 issue**: 546 · **贡献者**: 52
-
-## 累计统计
-
-- **发布数**: 38 · **已合并 PR**: 1074 · **开放 PR**: 115 · **已关闭 issue**: 218 · **开放 issue**: 328 · **提交数**: 1110
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 20 | 0 | 9 | 0 |
-| 90d | 2026-06-12 | 0 | 1 | 33 | 0 | 12 | 1 |
-| 360d | 2025-09-15 | 2 | 183 | 91 | 10 | 81 | 144 |
-
-## 代码规模
+## 代码洞察
 
 合计: **237,003** 行代码（覆盖前 5 种语言、共 **1716** 个文件）。
 
@@ -62,6 +34,36 @@ x install UI-TARS-desktop
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
+## 源代码
+
+- **上游仓库**: <https://github.com/bytedance/UI-TARS-desktop>
+- **官网**: <https://agent-tars.com>
+- **许可证**: Apache-2.0
+
+## 发布
+
+- **最新版本**: `v0.3.0` (2025-11-04)
+- **最近提交**: 2026-07-01
+
+## 流行度
+
+- **Star**: 38,925 · **Fork**: 3,936 · **开放 issue**: 546 · **贡献者**: 52
+
+## 累计统计
+
+- **发布数**: 38 · **已合并 PR**: 1074 · **开放 PR**: 115 · **已关闭 issue**: 218 · **开放 issue**: 328 · **提交数**: 1110
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 20 | 0 | 9 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 28 | 0 | 11 | 0 |
+| 90d | 2026-06-12 | 0 | 1 | 33 | 0 | 12 | 1 |
+| last180d | 2026-03-14 | 0 | 3 | 63 | 2 | 21 | 3 |
+| 360d | 2025-09-15 | 2 | 183 | 91 | 10 | 81 | 144 |
+| last720d | 2024-09-20 | 38 | 1074 | 115 | 218 | 328 | 1110 |
+
 ## 改进这些数据
 
 UI-TARS-desktop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `UI-TARS-desktop` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -71,4 +73,4 @@ UI-TARS-desktop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:21:06Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:57:28Z._
