@@ -14,14 +14,14 @@ x install UI-TARS-desktop
 
 ## Code insight
 
-Total: **237,691** lines of code across **1722** files in the top 5 languages.
+Total: **238,807** lines of code across **1727** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 111,254 | 22,306 | 17,514 | 1164 |
-| Yaml | 69,433 | 18 | 10,535 | 17 |
-| Tsx | 34,220 | 1,720 | 3,620 | 282 |
-| Json | 17,798 | 0 | 1 | 231 |
+| TypeScript | 112,188 | 22,570 | 17,643 | 1169 |
+| Yaml | 69,440 | 18 | 10,535 | 17 |
+| Tsx | 34,223 | 1,711 | 3,618 | 282 |
+| Json | 17,800 | 0 | 1 | 231 |
 | Css | 2,853 | 128 | 477 | 28 |
 
 ## OpenSSF Scorecard
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 39,101 · **Forks**: 3,962 · **Open issues**: 571 · **Contributors**: 52
+- **Stars**: 39,107 · **Forks**: 3,965 · **Open issues**: 572 · **Contributors**: 53
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 1075 · **Open PRs**: 141 · **Closed issues**: 218 · **Open issues**: 353 · **Commits**: 1111
+- **Releases**: 38 · **Merged PRs**: 1079 · **Open PRs**: 142 · **Closed issues**: 218 · **Open issues**: 354 · **Commits**: 1115
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 0 | 43 | 0 | 27 | 1 |
-| last60d | 2026-07-26 | 0 | 1 | 51 | 0 | 35 | 1 |
-| 90d | 2026-06-26 | 0 | 1 | 57 | 0 | 36 | 2 |
-| last180d | 2026-03-28 | 0 | 3 | 88 | 2 | 44 | 3 |
-| 360d | 2025-09-29 | 1 | 57 | 114 | 6 | 99 | 55 |
-| last720d | 2024-10-04 | 38 | 1075 | 141 | 218 | 353 | 1111 |
+| 30d | 2026-08-26 | 0 | 2 | 46 | 0 | 28 | 5 |
+| last60d | 2026-07-27 | 0 | 5 | 52 | 0 | 36 | 5 |
+| 90d | 2026-06-27 | 0 | 5 | 58 | 0 | 37 | 6 |
+| last180d | 2026-03-29 | 0 | 7 | 89 | 2 | 45 | 7 |
+| 360d | 2025-09-30 | 1 | 57 | 115 | 6 | 100 | 59 |
+| last720d | 2024-10-05 | 38 | 1079 | 142 | 218 | 354 | 1115 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for UI-TARS-desktop lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:11:06Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:23:25Z._
