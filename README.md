@@ -14,11 +14,11 @@ x install UI-TARS-desktop
 
 ## Code insight
 
-Total: **238,807** lines of code across **1727** files in the top 5 languages.
+Total: **238,861** lines of code across **1728** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 112,188 | 22,570 | 17,643 | 1169 |
+| TypeScript | 112,242 | 22,578 | 17,659 | 1170 |
 | Yaml | 69,440 | 18 | 10,535 | 17 |
 | Tsx | 34,223 | 1,711 | 3,618 | 282 |
 | Json | 17,800 | 0 | 1 | 231 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.3.0` (2025-11-04)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-10-08
 
 ## Popularity
 
-- **Stars**: 39,206 · **Forks**: 3,970 · **Open issues**: 573 · **Contributors**: 53
+- **Stars**: 39,213 · **Forks**: 3,970 · **Open issues**: 574 · **Contributors**: 53
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 1079 · **Open PRs**: 150 · **Closed issues**: 218 · **Open issues**: 355 · **Commits**: 1115
+- **Releases**: 38 · **Merged PRs**: 1081 · **Open PRs**: 144 · **Closed issues**: 218 · **Open issues**: 356 · **Commits**: 1117
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 2 | 47 | 0 | 28 | 5 |
-| last60d | 2026-08-08 | 0 | 2 | 59 | 0 | 37 | 5 |
-| 90d | 2026-07-09 | 0 | 5 | 64 | 0 | 38 | 5 |
-| last180d | 2026-04-10 | 0 | 7 | 95 | 1 | 46 | 7 |
-| 360d | 2025-10-12 | 1 | 48 | 120 | 6 | 97 | 42 |
-| last720d | 2024-10-17 | 38 | 1079 | 150 | 218 | 355 | 1115 |
+| 30d | 2026-09-08 | 0 | 4 | 41 | 0 | 29 | 7 |
+| last60d | 2026-08-09 | 0 | 4 | 53 | 0 | 38 | 7 |
+| 90d | 2026-07-10 | 0 | 7 | 57 | 0 | 39 | 7 |
+| last180d | 2026-04-11 | 0 | 9 | 89 | 1 | 47 | 9 |
+| 360d | 2025-10-13 | 1 | 48 | 112 | 6 | 98 | 44 |
+| last720d | 2024-10-18 | 38 | 1081 | 144 | 218 | 356 | 1117 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for UI-TARS-desktop lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:24:54Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:33:26Z._
