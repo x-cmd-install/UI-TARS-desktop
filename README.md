@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 39,229 · **Forks**: 3,973 · **Open issues**: 567 · **Contributors**: 53
+- **Stars**: 39,242 · **Forks**: 3,979 · **Open issues**: 568 · **Contributors**: 53
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 1082 · **Open PRs**: 131 · **Closed issues**: 218 · **Open issues**: 349 · **Commits**: 1118
+- **Releases**: 39 · **Merged PRs**: 1082 · **Open PRs**: 131 · **Closed issues**: 218 · **Open issues**: 350 · **Commits**: 1118
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 1 | 5 | 30 | 0 | 27 | 8 |
-| last60d | 2026-08-12 | 1 | 5 | 39 | 0 | 30 | 8 |
-| 90d | 2026-07-13 | 1 | 8 | 43 | 0 | 32 | 8 |
-| last180d | 2026-04-14 | 1 | 10 | 75 | 1 | 41 | 10 |
-| 360d | 2025-10-16 | 2 | 43 | 99 | 6 | 90 | 45 |
-| last720d | 2024-10-21 | 39 | 1082 | 131 | 218 | 349 | 1118 |
+| 30d | 2026-09-12 | 1 | 5 | 30 | 0 | 28 | 8 |
+| last60d | 2026-08-13 | 1 | 5 | 39 | 0 | 31 | 8 |
+| 90d | 2026-07-14 | 1 | 8 | 43 | 0 | 33 | 8 |
+| last180d | 2026-04-15 | 1 | 10 | 75 | 1 | 41 | 10 |
+| 360d | 2025-10-17 | 2 | 43 | 98 | 6 | 90 | 42 |
+| last720d | 2024-10-22 | 39 | 1082 | 131 | 218 | 350 | 1118 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for UI-TARS-desktop lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:18:34Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:43:04Z._
