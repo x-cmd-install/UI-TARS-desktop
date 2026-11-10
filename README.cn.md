@@ -2,6 +2,8 @@
 
 [English version](./README.md)
 
+> ⚠️ 此项目已归档（archived）。
+
 The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 
 [![x-cmd/install — UI-TARS-desktop Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/UI-TARS-desktop.svg?lang=zh)](https://x-cmd.com/install/UI-TARS-desktop)
@@ -47,7 +49,7 @@ x install UI-TARS-desktop
 
 ## 流行度
 
-- **Star**: 39,583 · **Fork**: 4,028 · **开放 issue**: 577 · **贡献者**: 53
+- **Star**: 39,590 · **Fork**: 4,029 · **开放 issue**: 577 · **贡献者**: 53
 
 ## 累计统计
 
@@ -57,12 +59,12 @@ x install UI-TARS-desktop
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 0 | 9 | 0 | 3 | 0 |
-| last60d | 2026-09-10 | 1 | 5 | 41 | 0 | 31 | 8 |
-| 90d | 2026-08-11 | 1 | 5 | 61 | 0 | 40 | 8 |
-| last180d | 2026-05-13 | 1 | 10 | 82 | 0 | 47 | 9 |
-| 360d | 2025-11-14 | 1 | 33 | 120 | 6 | 94 | 32 |
-| last720d | 2024-11-19 | 39 | 1082 | 153 | 218 | 359 | 1118 |
+| 30d | 2026-10-11 | 0 | 0 | 9 | 0 | 3 | 0 |
+| last60d | 2026-09-11 | 1 | 5 | 41 | 0 | 30 | 8 |
+| 90d | 2026-08-12 | 1 | 5 | 61 | 0 | 39 | 8 |
+| last180d | 2026-05-14 | 1 | 10 | 82 | 0 | 47 | 9 |
+| 360d | 2025-11-15 | 1 | 33 | 120 | 6 | 94 | 32 |
+| last720d | 2024-11-20 | 39 | 1082 | 153 | 218 | 359 | 1118 |
 
 ## 改进这些数据
 
@@ -73,4 +75,4 @@ UI-TARS-desktop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T06:56:56Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T07:52:02Z._
