@@ -49,7 +49,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 39,598 · **Forks**: 4,044 · **Open issues**: 576 · **Contributors**: 53
+- **Stars**: 39,599 · **Forks**: 4,045 · **Open issues**: 576 · **Contributors**: 53
 
 ## Totals (cumulative)
 
@@ -59,12 +59,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 8 | 0 | 2 | 0 |
-| last60d | 2026-09-16 | 1 | 5 | 41 | 0 | 30 | 8 |
-| 90d | 2026-08-17 | 1 | 5 | 60 | 0 | 39 | 8 |
-| last180d | 2026-05-19 | 1 | 9 | 79 | 0 | 45 | 9 |
-| 360d | 2025-11-20 | 1 | 32 | 119 | 6 | 92 | 32 |
-| last720d | 2024-11-25 | 39 | 1082 | 153 | 218 | 358 | 1118 |
+| 30d | 2026-10-17 | 0 | 0 | 8 | 0 | 2 | 0 |
+| last60d | 2026-09-17 | 1 | 4 | 41 | 0 | 30 | 8 |
+| 90d | 2026-08-18 | 1 | 5 | 60 | 0 | 39 | 8 |
+| last180d | 2026-05-20 | 1 | 9 | 79 | 0 | 45 | 9 |
+| 360d | 2025-11-21 | 1 | 31 | 119 | 6 | 92 | 31 |
+| last720d | 2024-11-26 | 39 | 1082 | 153 | 218 | 358 | 1118 |
 
 ## Improve this data
 
@@ -75,4 +75,4 @@ Install metadata for UI-TARS-desktop lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:05:24Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:32:54Z._
